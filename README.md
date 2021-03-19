@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola amigos 👋 
+               My name is Deepam Aggarwal
 
 <!--
 **Deepam-Aggarwal/Deepam-Aggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://deepam-aggarwal.github.io/CV/">My CV</a><br>
+<a href="https://deepamaggarwalportfolio.wordpress.com/">My Portfolio</a>
+
 ![](https://komarev.com/ghpvc/?username=Deepam-Aggarwal&color=blueviolet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Deepam-Aggarwal&repo=codify&show_owner=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ](https://github.com/Deepam-Aggarwal/codify)
