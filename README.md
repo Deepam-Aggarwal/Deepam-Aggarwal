@@ -1,11 +1,15 @@
 <p align="center">
-<img width="100px" src="https://deepam-aggarwal.github.io/CV/DAA.jpg" align="center" alt="GitHub Readme Stats" /><br>
+<img width="200px" src="https://deepam-aggarwal.github.io/CV/DAA.jpg" align="center" alt="Deepam Aggarwal" /><br>
 </p>  
 
 ![](https://komarev.com/ghpvc/?username=Deepam-Aggarwal&color=blueviolet)<br>
+
+<p align="center">
+<img width="150px" src="https://deepam-aggarwal.github.io/codify/assets/DA1.jpg" align="center" alt="Deepam Aggarwal" />
+</p>
+
 ### Hola amigos 👋 
                My name is Deepam Aggarwal
-
 <!--
 **Deepam-Aggarwal/Deepam-Aggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <a href="https://deepam-aggarwal.github.io/CV/">My CV</a><br>
 <a href="https://deepamaggarwalportfolio.wordpress.com/">My Portfolio</a>
 
