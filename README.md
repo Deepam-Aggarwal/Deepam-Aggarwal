@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=Deepam-Aggarwal&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Deepam-Aggarwal&color=blueviolet)<br>
+<img width="100px" src="https://deepam-aggarwal.github.io/CV/DAA.jpg" align="center" alt="GitHub Readme Stats" />
 ### Hola amigos 👋 
                My name is Deepam Aggarwal
 
