@@ -43,11 +43,13 @@ Here are some ideas to get you started:
 <!--<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>-->
 </div><br>
 
-### Connect with me: 
-<a href="https://deepamaggarwalportfolio.wordpress.com/"><img alt="WordPress" src="https://img.shields.io/badge/Portfolio%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/></a>
-<a href="https://deepam-aggarwal.github.io/CV/"><img alt="GitHub" src="https://img.shields.io/badge/CV%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:deepamaggarwal068@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/deepam-aggarwal-5b22b51a5/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/</a>
+### Stats:
 
 ![Deepam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepam-Aggarwal&count_private=true&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepam-Aggarwal)](https://github.com/Deepam-Aggarwal&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+### Connect with me: 
+<a href="https://deepamaggarwalportfolio.wordpress.com/"><img alt="WordPress" src="https://img.shields.io/badge/Portfolio%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/></a> 
+<a href="https://deepam-aggarwal.github.io/CV/"><img alt="GitHub" src="https://img.shields.io/badge/CV%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:deepamaggarwal068@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/deepam-aggarwal-5b22b51a5/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
