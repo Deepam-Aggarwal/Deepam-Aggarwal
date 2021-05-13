@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 
 ### Connect with me: 
 <a href="https://deepamaggarwalportfolio.wordpress.com/"><img alt="WordPress" src="https://img.shields.io/badge/Portfolio%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/></a> 
-<a href="https://deepam-aggarwal.github.io/CV/"><img alt="GitHub" src="https://img.shields.io/badge/CV%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://deepam-aggarwal.github.io/Deepam-Portfolio/index.html#portfolio"><img alt="GitHub" src="https://img.shields.io/badge/CV%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:deepamaggarwal068@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/deepam-aggarwal-5b22b51a5/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
