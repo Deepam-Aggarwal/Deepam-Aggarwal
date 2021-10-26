@@ -13,25 +13,12 @@
 </span>
 
 <p align="left">
-<img width="200px" src="https://deepam-aggarwal.github.io/codify/assets/DA1.jpg" align="right" alt="Deepam Aggarwal" />
+<img width="200" src="https://deepam-aggarwal.github.io/codify/assets/DA1.jpg" align="right" alt="Deepam Aggarwal" />
 </p>
 
 ### Hola amigos 👋 
 I am Deepam Aggarwal, I am a person who is willing to learn and apply that learning through out the work process, the willingness to learn and gain experience is my greatest power, I can do teamwork and can work alone whenever needed. I am currently pursuing BCA at Institute of Innovation in Technology and Management. I am running two blogs of my own both of them are related to IT. One is about new gadgets another about coding like an e-learning platform. I have been hired as campus ambassador by Vibrance VIT Chennai, IIT Delhi, Internshala and as marketing and public relations intern by Picartzo Services Private Ltd. I am experienced in GIMP, DBMS, SEO, Web development.
-<!--
-**Deepam-Aggarwal/Deepam-Aggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!--### Tech stack I am familiar with:
 <div class="row">
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -48,9 +35,29 @@ Here are some ideas to get you started:
 <!--<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>
 <!--<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>-->
-</div><br>
+<br>
+
+<h2 align="center">My favorite projects</h2>
+<p align="center">
+  <img width="400" height="200" src="https://github.com/Deepam-Aggarwal/space-tourism/blob/main/preview.jpg" />
+  <img width="400" src="https://github.com/Deepam-Aggarwal/Deepam-Portfolio/blob/master/assets/preview-min.gif" />
+ <a href="https://github.com/Deepam-Aggarwal/space-tourism">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Deepam-Aggarwal&repo=space-tourism&theme=tokyonight" />
+</a>
+  <a href="https://github.com/Deepam-Aggarwal/Deepam-Portfolio">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Deepam-Aggarwal&repo=Deepam-Portfolio&theme=tokyonight" />
+</a>
+  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
+  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
+  <a href="https://github.com/YuriDevAT/nikki-my-diary">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
+</a>
+<a href="https://github.com/YuriDevAT/instagram-clone">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
+</a>
+</p>
 <p>
-<h3 align="center"> Languages and Tools</h3>
+<h2 align="center"> Languages and Tools</h2>
 </p>
 <br />
 <p align="center">
@@ -67,18 +74,18 @@ Here are some ideas to get you started:
  <a href="https://www.wordpress.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="40" height="40"/> </a>
  <a href="https://www.oracle.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
  <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a>
- <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="C" width="40" height="40"/> </a>
- <a href="" target="_blank"> <img src="https://img.shields.io/%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" alt="C++" width="40" height="40"/> </a>
-   </p>
-<br />
+ <a href="" target="_blank"> <img src="https://github.com/Deepam-Aggarwal/Deepam-Aggarwal/blob/main/c.svg" alt="C" width="40" height="40"/> </a>
+ <a href="" target="_blank"> <img src="https://github.com/Deepam-Aggarwal/Deepam-Aggarwal/blob/main/cplusplus.svg" alt="C++" width="40" height="40"/> </a>
+</p>
 <p align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </p>
-
-### Stats:
+<p>
+<h2 align="center">Stats</h2>
+</p>
 
 ![Deepam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepam-Aggarwal&count_private=true&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepam-Aggarwal&layout=compact&theme=radical)](https://github.com/Deepam-Aggarwal)
-<a href="https://app.daily.dev/Deepam_Aggarwal"><img src="https://api.daily.dev/devcards/fb9e8f7cd8cf482eacd852cf44fa8d71.png?r=bu6" width="400" alt="Deepam Aggarwal's Dev Card"/></a>
+<a href="https://app.daily.dev/Deepam_Aggarwal"><img src="https://api.daily.dev/devcards/fb9e8f7cd8cf482eacd852cf44fa8d71.png?r=bu6" width="300" alt="Deepam Aggarwal's Dev Card"/></a>
 
 
