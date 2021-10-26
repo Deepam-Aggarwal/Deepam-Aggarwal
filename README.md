@@ -47,13 +47,13 @@ I am Deepam Aggarwal, I am a person who is willing to learn and apply that learn
   <a href="https://github.com/Deepam-Aggarwal/Deepam-Portfolio">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Deepam-Aggarwal&repo=Deepam-Portfolio&theme=tokyonight" />
 </a>
-  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
-  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
-  <a href="https://github.com/YuriDevAT/nikki-my-diary">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
+  <img width="400" src="https://github.com/Deepam-Aggarwal/how-to-create-custom-mail-signature/blob/main/3.png" />
+  <img width="400" src="https://github.com/Deepam-Aggarwal/Deepam-Portfolio/blob/master/assets/web1.png" />
+  <a href="https://github.com/Deepam-Aggarwal/how-to-create-custom-mail-signature">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Deepam-Aggarwal&repo=how-to-create-custom-mail-signature&theme=tokyonight" />
 </a>
-<a href="https://github.com/YuriDevAT/instagram-clone">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
+<a href="https://github.com/Deepam-Aggarwal/Cynet-Webweaver">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Deepam-Aggarwal&repo=Cynet-Webweaver&theme=tokyonight" />
 </a>
 </p>
 <p>
