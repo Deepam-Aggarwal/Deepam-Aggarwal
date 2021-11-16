@@ -85,7 +85,7 @@ I am Deepam Aggarwal, I am a person who is willing to learn and apply that learn
 </p>
 
 ![Deepam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepam-Aggarwal&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepam-Aggarwal&layout=compact&theme=radical)](https://github.com/Deepam-Aggarwal)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepam-Aggarwal&layout=compact&theme=radical)](https://github.com/Deepam-Aggarwal)<br/>
 <a href="https://app.daily.dev/Deepam_Aggarwal"><img src="https://api.daily.dev/devcards/fb9e8f7cd8cf482eacd852cf44fa8d71.png?r=bu6" width="300" alt="Deepam Aggarwal's Dev Card"/></a>
 
 
