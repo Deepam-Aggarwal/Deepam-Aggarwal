@@ -17,7 +17,9 @@
 </p>
 
 ### Hola amigos 👋 
-I am Deepam Aggarwal, I am a person who is willing to learn and apply that learning through out the work process, the willingness to learn and gain experience is my greatest power, I can do teamwork and can work alone whenever needed. I am currently pursuing BCA at Institute of Innovation in Technology and Management. I am running two blogs of my own both of them are related to IT. One is about new gadgets another about coding like an e-learning platform. I have been hired as campus ambassador by Vibrance VIT Chennai, IIT Delhi, Internshala and as marketing and public relations intern by Picartzo Services Private Ltd. I am experienced in GIMP, DBMS, SEO, Web development.
+Deepam is a person who is curious about researching, finding solutions. He has completed his Bachelor of Computer Applications from Institute of Innovation in Technology and Management affiliated with Guru Gobind Singh University in 2022 and now currently working at Deloitte. He is friendly, a team player and a dedicated person.
+
+He has knowledge accross domains such as web development, web designing, coding, marketing, health care. He has Micro certificate ServiceNow and certificates in Google Analytics. He is always open for opportunities, networking and knowledge sharing.
 
 <!--### Tech stack I am familiar with:
 <div class="row">
